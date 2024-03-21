@@ -1,0 +1,114 @@
+h1  {
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.container  {
+    display:flex;
+    width:100%;
+    /*height: 600px;*/
+    justify-content: center;
+    /*height:100vh;*/
+    height: 100%;
+    flex-direction:column;
+    align-items: center;
+}
+.container .row  {
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    width: 100%;
+    height: 200px;
+    margin:10px;
+}
+
+.col  {
+    height: 150px;
+    width: 100px;
+    margin: 5px;
+    border-radius: 5%;
+    
+}
+
+.col1  {
+    background-color: gray
+}
+.col2  {
+    background-color:cadetblue;
+}
+
+.col3  {
+    background-color:rgba(64, 228, 173, 0.74);
+}
+
+.col4  {
+    background-color: lime;
+}
+
+.col5  {
+    background-color: whitesmoke;
+}
+
+.col6  {
+    background-color: darkorange;
+}
+
+.col7  {
+    background-color: tomato;
+}
+
+.col8  {
+    background-color: lightpink;
+}
+
+.col9 {
+    background-color: rgb(121, 121, 212);
+}
+.col10 {
+    background-color: blue;
+}
+.col11  {
+    background-color:  rgb(121, 121, 212);;
+}
+.col12  {
+    background-color:grey ;
+}
+
+.col13  {
+    background-color: aqua;
+}
+
+.col14  {
+    background-color:khaki
+}
+
+.col15  {
+    background-color: goldenrod;
+}
+
+.col16  {
+    background-color:crimson;
+}
+.col17  {
+    background-color:rgb(48, 8, 8);
+}
+.col18  {
+    background-color: aqua;
+}
+.col19  {
+    background-color: aquamarine;
+
+}
+.col20 {
+    background-color: cornflowerblue;
+}
+.col21  {
+    background-color: blueviolet;
+}
